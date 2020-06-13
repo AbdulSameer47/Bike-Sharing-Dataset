@@ -1,4 +1,4 @@
-# Bike-Sharing-Dataset_Udacity
+# Bike-Sharing-Dataset
 
 dataset :https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset
 
